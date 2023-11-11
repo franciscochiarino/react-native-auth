@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284532070353",
+    "project_id": "react-native-auth-dfe9b",
+    "storage_bucket": "react-native-auth-dfe9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284532070353:android:7a9c22f7af41ec393972f0",
+        "android_client_info": {
+          "package_name": "com.projectname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fqucOp40RGvZmgy1fx0iMPiPOtcuCuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

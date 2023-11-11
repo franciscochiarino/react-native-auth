@@ -1,0 +1,8 @@
+{
+  "name": "react-native-auth",
+  "version": "0.0.5",
+  "description": "React Native Auth and Analytics",
+  "repository": "git@github.com:franciscochiarino/react-native-auth.git",
+  "author": "Francisco Chiarino <francisco.chiarino@gmail.com>",
+  "license": "MIT"
+}
